@@ -1,0 +1,9 @@
+app/src/main/java/com/immersive/app/overlay/ImmersiveSidebarOverlay.java
+app/src/main/java/com/immersive/app/overlay/SpringAnimator.java
+app/src/main/java/com/immersive/app/overlay/EdgePerimeterLightingView.java
+app/src/main/java/com/immersive/app/service/ImmersiveAccessibilityService.java
+app/src/main/java/com/immersive/app/ui/OnboardingActivity.java
+app/src/main/java/com/immersive/app/ui/MainActivity.java
+app/src/main/java/com/immersive/app/data/ImmersivePrefs.java
+app/src/main/java/com/immersive/app/engine/SpringAnimator.java
+build/gen/com/immersive/app/R.java

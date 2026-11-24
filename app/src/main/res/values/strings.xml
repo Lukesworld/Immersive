@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Immersive</string>
+    <string name="tile_label">Immersive Mode</string>
+    <string name="accessibility_service_description">Powers zero-ADB fullscreen overlays, full-perimeter edge lighting gestures, translucent navigation controls, and instant keyboard recovery without reading screen content.</string>
+    <string name="disclosure_heading">Accessibility Service Disclosure</string>
+    <string name="disclosure_body">Immersive uses Android\'s AccessibilityService API strictly to:\n\n• Render full-perimeter binary edge lighting, translucent navigation bars, and elastic sidebars without ADB or root.\n• Execute Back, Home, Recents, and Notification Shade actions from edge gestures.\n• Detect on-screen keyboard windows to auto-collapse bottom overlays.\n\nZero screen content, keystrokes, or personal data are ever read, logged, or transmitted.</string>
+    <string name="cd_app_logo">Immersive logo</string>
+    <string name="onboarding_title">Immersive Mode</string>
+    <string name="onboarding_subtitle">Full-perimeter edge lighting, gesture navigation, and zero-ADB fullscreen overlays</string>
+    <string name="btn_enable_accessibility">Enable Accessibility</string>
+    <string name="btn_not_now">Not now</string>
+    <string name="cd_immersive_sidebar">Immersive sidebar</string>
+</resources>

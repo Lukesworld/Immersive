@@ -1,0 +1,10 @@
+build/compiled_res/
+build/obj/
+build/dex/
+build/gen/
+build/aligned.apk
+build/unaligned.apk
+*.idsig
+__pycache__/
+*.pyc
+.DS_Store
